@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use the online editor**
 
-Simply visit the [project page](https://example.com) and start prompting.
+Simply visit the [project page]((https://yasaswi-portfolio.windsurf.build/)) and start prompting.
 
 Changes made via the online editor will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [the deployment platform](https://example.com) and click on Share -> Publish.
+Simply open [the deployment platform](https://app.netlify.com/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my project?
 
