@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://example.com
+**URL**: https://yasaswi-portfolio.windsurf.build/
 
 ## How can I edit this code?
 
